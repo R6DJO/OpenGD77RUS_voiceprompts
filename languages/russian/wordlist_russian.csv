@@ -1,0 +1,372 @@
+PromptName,PromptSpeechPrefix,PromptSpeechPostfix,PromptText
+PROMPT_SPACE,,,
+PROMPT_POINT,,,ТОЧКА
+PROMPT_0,,,0
+PROMPT_1,,,1
+PROMPT_2,,,2
+PROMPT_3,,,3
+PROMPT_4,,,4
+PROMPT_5,,,5
+PROMPT_6,,,6
+PROMPT_7,,,7
+PROMPT_8,,,8
+PROMPT_9,,,9
+PROMPT_A,,,А
+PROMPT_B,,,Б
+PROMPT_C,,,C
+PROMPT_D,,,Д
+PROMPT_E,,,E
+PROMPT_F,,,Ф
+PROMPT_G,,,Г
+PROMPT_H,,,Х
+PROMPT_I,,,я
+PROMPT_J,,,Джей
+PROMPT_K,,,Кэ
+PROMPT_L,,,Л
+PROMPT_M,,,М
+PROMPT_N,,,Н
+PROMPT_O,,,О
+PROMPT_P,,,П
+PROMPT_Q,,,Кью
+PROMPT_R,,,Р
+PROMPT_S,,,С
+PROMPT_T,,,Т
+PROMPT_U,,,U
+PROMPT_V,,,В
+PROMPT_W,,,В
+PROMPT_X,,,X
+PROMPT_Y,,,Ю
+PROMPT_Z,,,Зэетт
+PROMPT_Z2,,,З
+PROMPT_CHANNEL,,,Канал
+PROMPT_CONTACT,,,контакт
+PROMPT_MILLISECONDS,,,милисекунды
+PROMPT_MEGAHERTZ,,,Мегагерц
+PROMPT_KILOHERTZ,,,Килогерц
+PROMPT_TALKGROUP,,,РазговорнаАя группа
+PROMPT_DEGREES,,,Ступени
+PROMPT_VFO,,,ви эф о
+PROMPT_SECONDS,,,секунд
+PROMPT_MINUTES,,,минут
+PROMPT_VOLTS,,,Вольт
+PROMPT_WATT,,,Ват
+PROMPT_WATTS,,,Ват
+PROMPT_MILLIWATTS,,,миливат
+PROMPT_PERCENT,,,Процент
+PROMPT_RECEIVE,,,Принимать
+PROMPT_TRANSMIT,,,Передавать
+PROMPT_MODE,,,Режим
+PROMPT_DMR,,,DMR
+PROMPT_FM,,,FM
+PROMPT_PLUS,,,Плюс
+PROMPT_MINUS,,,Минус
+PROMPT_VFO_EXCHANGE_TX_RX,,,Обмен частотами Передачи и Приема
+PROMPT_VFO_COPY_RX_TO_TX,,,Копировать частоту приема в частоту передачи
+PROMPT_VFO_COPY_TX_TO_RX,,,Копировать частоту передачи в частоту приема
+PROMPT_POWER,,,мощность
+PROMPT_CHANNEL_MODE,,,канальный режим
+PROMPT_SCAN_MODE,,,режим сканирования
+PROMPT_TIMESLOT_MODE,,,режим тайм слота
+PROMPT_FILTER_MODE,,,режим фильтра
+PROMPT_ZONE_MODE,,,режим зоны
+PROMPT_POWER_MODE,,,режим мощности
+PROMPT_COLORCODE_MODE,,,режим коолор кода
+PROMPT_HERTZ,,,герц
+PROMPT_SETTINGS_UPDATED,,,Настройки обновлены
+PROMPT_STAR,,,звездочка
+PROMPT_HASH,,,рИшетка
+PROMPT_VOX,,,Вокс
+PROMPT_SWEEP_SCAN_MODE,,,Режим сканирования
+PROMPT_ECO_MODE,,,Режим уровня экономайзера
+PROMPT_DURATION,,,Продолжительность
+PROMPT_REVERSE_REPEATER,,,Реверсивный репитер
+PROMPT_DISTANCE,,,Расстояние
+PROMPT_KMPH,,,Километров в час
+PROMPT_KILOMETERS,,,Километры
+PROMPT_UNUSED_8,,,
+PROMPT_UNUSED_9,,,
+PROMPT_UNUSED_10,,,
+LANGUAGE_NAME,,,Русский
+menu,,,Меню
+credits,,,Разработчики
+zone,,,зона
+rssi,,,R S S ай
+battery,,,акАмулятор
+contacts,,,Контакты
+last_heard,,,Последние принятые корреспонденты
+firmware_info,,,О про ши в ке
+options,,,Настройки
+display_options,,,Экран
+sound_options,,,Звук
+channel_details,,,Настройка канала
+language,,,Язык
+new_contact,,,Новый контакт
+dmr_contacts,,,Список конЪт актов DMR
+contact_details,,,Настройка контакта
+hotspot_mode,,,Хот спот
+built,,,Сборка
+zones,,,Зоны
+keypad,,,Клавиатура
+ptt,,,пи ти тти
+locked,,,Блокировка
+press_sk2_plus_star,,,Нажмите S K 2 + звездочка
+to_unlock,,,для разблокировки
+unlocked,,,Разблокировано 
+power_off,,,Выключение
+error,,,ОШИБКА
+rx_only,,,Только прием
+out_of_band,,,ВНЕ ДИАПАЗОНА
+timeout,,,ТАЙ МАУТ
+tg_entry,,,Номер группы
+pc_entry,,,Ай ди пользователя
+user_dmr_id,,,DMR Ай ди
+contact,,,контакт
+accept_call,,,Принять вызов
+private_call,,,Приватный вызов
+squelch,,,Шумоподавитель
+quick_menu,,,Быстрое меню
+filter,,,ФильтОр
+all_channels,,,Все каналы
+gotoChannel,,,Перейти к каналу
+scan,,,Сканирование
+channelToVfo,,,Копировать канал в ви эф о 
+vfoToChannel,,,Скопировать ви э фо в канал
+vfoToNewChannel,,,Скопировать ви э фо в новый канал
+group,,,Групповой
+private,,,Приватный
+all,,,все
+type,,,Тип
+timeSlot,,,Тайм слот
+none,,,Нет
+contact_saved,,,Контакт сохранен
+duplicate,,,дублировать
+tg,,,РазговорнаАя группа
+pc,,,Приватный контакт
+ts,,,Тайм слот
+mode,,,Режим
+colour_code,,,Коолор код
+n_a,,,Нет
+bandwidth,,,Полоса
+stepFreq,,,Шаг
+tot,,,ТаймИр передачи
+off,,,Выключить
+zone_skip,,,Пропустить в зоне
+all_skip,,,Пропускать всегда
+yes,,,Да
+no,,,Нет
+tg_list,,,Список групп
+on,,,Включено
+timeout_beep,,,Звуковой сигнал тайм-аута
+list_full,,,Список полон
+dmr_cc_scan,,,Сканирование коолор кода
+band_limits,,,Ограничение диапазонов
+beep_volume,,,Громкость звукового сигнала
+dmr_mic_gain,,,Усиление микрофона ДМР 
+fm_mic_gain,,,Усиление микрофона ФМ
+key_long,,,Длительное удержание кнопки
+key_repeat,,,Повторное нажатие кнопки
+dmr_filter_timeout,,,ФильтОр ДМР
+brightness,,,Яркость
+brightness_off,,,Минимальная яркость
+contrast,,,Контраст
+screen_invert,,,Инвертировать экран
+screen_normal,,,Стандартный экран
+backlight_timeout,,,Время подсветки
+scan_delay,,,Задержка сканирования
+yes___in_uppercase,,,ДА
+no___in_uppercase,,,НЕТ
+DISMISS,,,ОТКАЗ
+scan_mode,,,Режим сканирования
+hold,,,Удержание часто ты
+pause,,,Паузъа
+list_empty,,,Список пуст
+delete_contact_qm,,,Удалить контакт
+contact_deleted,,,Контакт удалён
+contact_used,,,Контакт используется
+in_tg_list,,,В списке групп
+select_tx,,,Выбрать контакт
+edit_contact,,,Редактировать контакт
+delete_contact,,,Удалить контакт
+group_call,,,Групповой вызов
+all_call,,,Общий вызов
+tone_scan,,,Сканирование субтонов
+low_battery,,,НИЗКИЙ ЗАРЯД БАТАРЕИ
+Auto,,,Авто
+manual,,,Ручной
+ptt_toggle,,,Фиксировать пи ти тти 
+private_call_handling,,,Разрешать приватный вызов
+stop,,,СТОП
+one_line,,,Одна строка
+two_lines,,,Две строки
+new_channel,,,Новый канал
+priority_order,,,порядок
+dmr_beep,,,звуковой сигнал DMR
+start,,,В начале
+both,,,В начале и конце 
+vox_threshold,,,Чувствительность ВОКС
+vox_tail,,,Задержка ВОКС
+audio_prompt,,,Звуки
+silent,,,Беззвучный
+rx_beep,,,Звуковой сигнал приема
+beep,,,Звуковой сигнал
+voice_prompt_level_1,,,Голос
+transmitTalkerAliasTS1,,,Алиас тайм слот один
+squelch_VHF,,,Уровень шумоподавления ви эйч ф
+squelch_220,,,Уровень шумоподавления 220 мегагерц
+squelch_UHF,,,Уровень шумоподавления ю эй чэф
+display_screen_invert,,,Экран 
+openGD77,,,Open Джи Ди 77 Русская
+talkaround,,,прямая связь
+APRS,,,A P R S
+no_keys,,,Без звука кнопок
+notset,,,Не найдено
+voice_prompt_level_2,,,Голосовой режим 2
+voice_prompt_level_3,,,Голосовой режим 3
+dmr_filter,,,фильтр DMR 
+talker,,,вызывающий
+dmr_ts_filter,,,Фильтр тайм слотов
+dtmf_contact_list,,,Контакты D T M F
+channel_power,,,Мощность 
+from_master,,,общая
+set_quickkey,,,Быстрые действия
+dual_watch,,,Двойной приём
+info,,,Информация
+pwr,,,Мощность
+user_power,,,Задать мощность
+dmrid,,,Ввод DMR ID
+dmridtext,,,ID
+seconds,,,секунды
+radio_info,,,Дата и время
+aliastext,,,Алиас 
+pin_code,,,Введите пин-код
+please_confirm,,,Пожалуйста подтвердите
+vfo_freq_bind_mode,,,Привяз ка частот ы передачи к частоте приёма
+overwrite_qm,,,Перезаписать?
+eco_level,,,Уровень экономайзера
+buttons,,,кнопки
+leds,,,Светодиод
+scan_dwell_time,,,Время сканирования
+battery_calibration,,,Калибровка батареи
+low,,,минимум
+high,,,максимум
+dmr_id,,,ДМР айди
+scan_on_boot,,,сканировать во время загрузки
+dtmf_entry,,,Набор DT MF
+name,,,Имя
+carrier,,,НесуущИя
+zone_empty,,,Зона пус та
+time,,,время
+promiscuity,,,Фильтры выключены
+hours,,,часы
+minutes,,,минуты
+satellite,,,Спутники
+alarm_time,,,Время подачи сигнала
+location,,,Координаты 
+date,,,Дата
+timezone,,,Часовой пояс
+suspend,,,Приостановить
+pass,,,Проход
+elevation,,,Возвышение
+azimuth,,,Азимут
+inHHMMSS,,,Через
+predicting,,,Вычисление
+maximum,,,Максимум
+satellite_short,,,Спутник
+local,,,местное время
+UTC,,,юти си
+symbols,,,
+not_set,,,Не задано
+general_options,,,Общие параметры
+radio_options,,,Параметры радиосвязи
+auto_night,,,Автопереключение на ночную тему
+dmr_rx_agc,,,Выравнивание звука приема DMR
+speaker_click_suppress,,,Подавление щелчков из динамика
+gps,,,Джи пи эс
+end_only,,,Только в конце
+dmr_crc,,,Контрольная сумма DMR
+eco,,,Экономайзер
+safe_power_on,,,Безопасное включение 
+auto_power_off,,,Автоматическое выключение после бездействия
+apo_with_rf,,,Автоматически сбрасывать таймИр бездействия при приеме или передаче
+brightness_night,,,НАч ная яркость
+freq_set_VHF,,,Частота ви эй чэф
+gps_acquiring,,,Поиск
+altitude,,,Высота
+calibration,,,Калибровка
+freq_set_UHF,,,Частота ю эй чэф
+cal_frequency,,,Калибровка часто ТЫ
+cal_pwr,,,Калибровка мощности
+pwr_set,,,Регулировка мощности
+factory_reset,,,Сброс
+rx_tune,,,Настройка приема
+transmitTalkerAliasTS2,,,Алиас тайм слот два
+ta_text,,,текст
+daytime_theme_day,,,Дневная те ма
+daytime_theme_night,,,Начная теема
+theme_chooser,,,Выбор цвета
+theme_options,,,Опции темы
+theme_fg_default,,,Текст по у молчанию
+theme_bg,,,Фоон
+theme_fg_decoration,,,Деъкоръ
+theme_fg_text_input,,,Ввод текста
+theme_fg_splashscreen,,,Загрузочный экран на переднем плане
+theme_bg_splashscreen,,,Фоновый экран загрузки
+theme_fg_notification,,,Текстовые уведомления
+theme_fg_warning_notification,,,Предупреждающее уведомления
+theme_fg_error_notification,,,Уведомления об ошибке
+theme_bg_notification,,,фоновые уведомления
+theme_fg_menu_name,,,Название меню на переднем плане
+theme_bg_menu_name,,,Фоновое изображение названия меню
+theme_fg_menu_item,,,Пункт меню
+theme_fg_menu_item_selected,,,Подсветка меню
+theme_fg_options_value,,,Значение параметра
+theme_fg_header_text,,,Текст заголовка на переднем плане
+theme_bg_header_text,,,Фоновый текст за голов ка
+theme_fg_rssi_bar,,,ПанЭль уровня принимаемого сигнала
+theme_fg_rssi_bar_s9p,,,Уровень Эр эс эс ай сигнала для S9 +
+theme_fg_channel_name,,,Имя канала
+theme_fg_channel_contact,,,Контакт
+theme_fg_channel_contact_info,,,Информация о контакте
+theme_fg_zone_name,,,Имя зоны
+theme_fg_rx_freq,,,Частота приема
+theme_fg_tx_freq,,,Частота передачи
+theme_fg_css_sql_values,,,Значения сиэ сэс и шумоподавления
+theme_fg_tx_counter,,,ТаймИр передачи
+theme_fg_polar_drawing,,,Диаграмма  
+theme_fg_satellite_colour,,,ЗначОк спутника
+theme_fg_gps_number,,,Номер джи пи эс
+theme_fg_gps_colour,,,Спутник джи пи эс
+theme_fg_bd_colour,,,Спутник Бэй доу
+theme_colour_picker_red,,,Красный
+theme_colour_picker_green,,,Зеленый
+theme_colour_picker_blue,,,Синий
+volume,,,Громкость
+roaming,,,По расстоянию
+show_distance,,,Показывать расстояние
+aprs_options,,,Опции A P R S 
+aprs_smart,,,Умный маяк
+aprs_channel,,,Канал
+aprs_decay,,,Увеличение интервала
+aprs_compress,,,Ссжатие
+aprs_interval,,,Начальный интервал
+aprs_message_interval,,,Интервал между сообщениями
+aprs_slow_rate,,,Медленный тЭмп
+aprs_fast_rate,,,Быстрый тЭмп
+aprs_low_speed,,,Минимальная скорость
+aprs_high_speed,,,Максимальная скорость
+aprs_turn_angle,,,Угол
+aprs_turn_slope,,,Наклон
+aprs_turn_time,,,Время поворота
+auto_lock,,,Автоблокировка
+trackball,,,ТрЭкболл
+dmr_force_dmo,,,Принудительный D M O
+satcom,,,SATCOM
+ham,,,Радиолюбительские диапазоны
+cps,,,по CPS
+p3button,,,Быстрое действие
+p3info,,,информация
+p3reverse,,,реверс
+p3talkaround,,,прямая связь
+p3fastcall,,,быстрый канал
+p3filter,,,фильтры
+priority,,,Приоритет

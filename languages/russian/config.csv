@@ -1,0 +1,2 @@
+Wordlist_file,Voice_name,Voice_pack_name,Download,Encode,Createpack,Volume_change_db,Remove_silence,Audio_tempo
+wordlist_russian.csv,Maxim,russian_kirill.vpr,y,y,y,0,n,
