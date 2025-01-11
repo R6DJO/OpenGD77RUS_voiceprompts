@@ -233,8 +233,8 @@ dual_watch,,,Двойной приём
 info,,,Информация
 pwr,,,Мощность
 user_power,,,Задать мощность
-dmrid,,,Ввод DMR ID
-dmridtext,,,ID
+dmrid,,,ввод диэмэр айди
+dmridtext,,,айди
 seconds,,,секунды
 radio_info,,,Дата и время
 aliastext,,,Алиас 
