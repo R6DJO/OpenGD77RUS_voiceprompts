@@ -41,7 +41,7 @@ writeCommandChar = ord('W')
 
 #FLASH_WRITE_SIZE = 2
 
-PlatformsNames = [ "GD-77", "GD-77S", "DM-1801", "RD-5R", "DM-1801A", "MD-9600", "MD-UV380", "MD-380", "DM-1701", "MD-2017", "MD-UV390 Plus" ]
+PlatformsNames = [ "GD-77", "GD-77S", "DM-1801", "RD-5R", "DM-1801A", "MD-9600", "MD-UV380", "MD-380", "DM-1701", "MD-2017" ]
 
 class PlatformModels(enum.Enum):
     PLATFORM_UNKNOWN = -1
@@ -55,7 +55,6 @@ class PlatformModels(enum.Enum):
     PLATFORM_MD380 = 7
     PLATFORM_DM1701 = 8
     PLATFORM_MD2017 = 9
-    PLATFORM_MDUV390 = 106
 
     def __int__(self):
         return self.value
@@ -296,8 +295,8 @@ def convert2AMBE(ser,infile,outfile):
         buf = bytearray(f.read())
         f.close();
         sendCommand(ser,1, 0, 0, 0, 0, 0, "") # Clear Screen
-        sendCommand(ser,2, 0, 0, 2, 1, 0, "Кодировка") # Write line at line #0, front size 3, centered
-        sendCommand(ser,2, 0, 16, 3, 1, 0, "Сжатие через AMBE") # Write line at line #16, front size 3, centered
+        sendCommand(ser,2, 0, 0, 2, 1, 0, "Tool") # Write line at line #0, front size 3, centered
+        sendCommand(ser,2, 0, 16, 3, 1, 0, "Compress To AMBE") # Write line at line #16, front size 3, centered
         sendCommand(ser,2, 0, 39, 0, 1, 0, ntpath.basename(infile)[:-4]) # Write prompt name line at line #32, front size 0 (6x8 regular), centered
         sendCommand(ser,3, 0, 0, 0, 0, 0, "") # Render the screen
         wavBufPos = 0
