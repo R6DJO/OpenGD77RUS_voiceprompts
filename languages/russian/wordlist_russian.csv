@@ -371,3 +371,4 @@ p3talkaround,,,прямая связь
 p3fastcall,,,быстрый канал
 p3filter,,,фильтры
 priority,,,Приоритет
+setfastcall,,,На быстрый вызов
