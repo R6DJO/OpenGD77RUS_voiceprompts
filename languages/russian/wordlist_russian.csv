@@ -212,7 +212,6 @@ beep,,,Звуковой сигнал
 voice_prompt_level_1,,,Голос
 transmitTalkerAliasTS1,,,Алиас тайм слот один
 squelch_VHF,,,Уровень шумоподавления ви эйч ф
-squelch_220,,,Уровень шумоподавления 220 мегагерц
 squelch_UHF,,,Уровень шумоподавления ю эй чэф
 display_screen_invert,,,Экран 
 openGD77,,,Open Джи Ди 77 Русская
@@ -371,6 +370,5 @@ p3talkaround,,,прямая связь
 p3fastcall,,,быстрый канал
 p3filter,,,фильтры
 priority,,,Приоритет
-gpsModule,,,Режим навигации
 gpsModuleFactory,,,стандартный
 gpsModuleCustom,,,ГЛОНАСС
