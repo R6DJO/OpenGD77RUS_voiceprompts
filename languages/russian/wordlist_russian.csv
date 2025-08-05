@@ -372,3 +372,7 @@ p3filter,,,фильтры
 priority,,,Приоритет
 gpsModuleFactory,,,стандартный
 gpsModuleCustom,,,ГЛОНАСС
+fmBandpass,,,Фильтр FM
+RSSIStyle,,,Стиль RSSI
+RSSIBargraph,,,барграф
+RSSIMarker,,,маркер
